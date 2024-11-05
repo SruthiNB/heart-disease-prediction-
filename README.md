@@ -10,6 +10,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 Machine Learning algorithms used:
 
 Logistic Regression (Scikit-learn)
+
 K-Nearest Neighbours (Scikit-learn)
 
 Accuracy achieved: 85% (Logistic Regression)
